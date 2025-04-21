@@ -1,4 +1,4 @@
-year	yyyy.mm	puri_grow_sales_team	ad_mass	ad_promotion	people_total	invest_launch_ratio	lease_ratio
+year	yyyy.mm	puri_grow_new_team	ad_mass	ad_promotion	people_total	invest_launch_ratio	lease_ratio
 2015	2015.01	83	13683310	20112485	1470	13927495.5	0
 2015	2015.02	145	12833930	23578789	1404	13927495.5	0
 2015	2015.03	991	32706864	63586536	1514	13927495.5	0
